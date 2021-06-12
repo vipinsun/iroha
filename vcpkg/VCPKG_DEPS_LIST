@@ -9,6 +9,7 @@ rapidjson
 fmt
 spdlog
 boost-filesystem
+boost-iostreams
 boost-system
 boost-thread
 boost-variant
@@ -24,3 +25,4 @@ boost-process
 iroha-ed25519
 prometheus-cpp
 rocksdb
+rxcpp
